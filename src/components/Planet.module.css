@@ -1,0 +1,19 @@
+.planetCard{
+    background: #27272A;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin: 10px;
+}
+.planetCreatedPart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.planetDetails{
+    display: flex;
+    justify-content: space-between;
+}
+.planetDetailName{
+    display: flex;
+    align-items: center;
+}
